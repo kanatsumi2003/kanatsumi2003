@@ -2,34 +2,38 @@
 
 # 👋 Hi, I'm [Nguyễn Anh Đức] – Backend Developer
 
-Welcome to my GitHub! I'm a backend developer who loves building scalable, secure, and efficient systems. My work focuses on creating clean, maintainable APIs and event-driven architectures that power modern applications.
-
-### 💻 Tech Stack & Tools
-
-- **Languages & Frameworks:**  
-  - `.NET (C#)` – RESTful APIs, gRPC services, background workers  
-  - `Node.js` – Lightweight microservices and utilities
-
-- **Messaging & Realtime:**  
-  - `RabbitMQ` – Asynchronous communication and event-driven patterns  
-  - `SignalR` – Real-time communication for interactive apps
-
-- **Infrastructure & DevOps:**  
-  - `Docker` – Containerized applications and services  
-  - `Nginx` – Reverse proxy, load balancing, and gRPC support  
-  - `Cloudflare` – CDN, DNS, and DDoS protection
-
-### 🚀 What I’m Working On
-
-I'm currently building microservices-based systems that include features like real-time communication, secure payment flows, and scalable background processing.
-
-### 📫 Get in Touch
-
-Feel free to connect with me for collaborations, backend questions, or cool tech discussions.
+Welcome to my GitHub! I'm a backend developer focused on building scalable, secure, and efficient backend systems. I work with modern technologies to create APIs, background workers, and real-time applications.
 
 ---
 
-Thanks for visiting!
+### 🛠️ Tech Stack & Tools
+
+#### Languages & Frameworks
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Messaging & Realtime
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=signalr&logoColor=white)
+
+#### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+---
+
+### 🚀 What I’m Working On
+
+I’m currently building microservices-based systems with real-time communication, secure payments, and efficient background processing.
+
+---
+
+### 📫 Get in Touch
+
+Feel free to connect for collaboration or tech discussions!
+
+
 <!--
 **kanatsumi2003/kanatsumi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
